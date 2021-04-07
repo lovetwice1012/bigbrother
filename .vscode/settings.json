@@ -1,9 +1,0 @@
-{
-  "files.exclude": {
-    ".git": true,
-    "data": true,
-    "plugins": true,
-    "build": true,
-    "vendor": true
-  }
-}
