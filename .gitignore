@@ -1,9 +1,0 @@
-
-data/
-plugins/
-
-build/
-vendor/
-resources/revision
-
-composer.lock
